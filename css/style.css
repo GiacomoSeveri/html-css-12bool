@@ -1,0 +1,17 @@
+body {
+    /* padding-top: 50px; */
+}
+
+.row {
+    border: 1px solid #fff;
+}
+
+.col {
+    background-color: #006CFA;
+    border: 1px solid #fff;
+    min-height: 50px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

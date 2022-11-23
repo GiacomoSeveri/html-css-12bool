@@ -4,11 +4,20 @@ body {
 
 .row {
     border: 1px solid #fff;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .col {
     background-color: #006CFA;
+    border: 1px solid #fff;
+    min-height: 50px;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+}
+
+.offset {
+    background-color: #fff;
     border: 1px solid #fff;
     min-height: 50px;
     color: #fff;

@@ -86,3 +86,65 @@
     flex-basis: calc(100% / 12 * 1);
     max-width: calc(100% / 12 * 1);
 }
+
+/* offset */
+
+.row > .offset-12 {
+    flex-basis: 100%;
+    max-width: 100%;
+}
+
+.row > .offset-11 {
+    flex-basis: calc(100% / 12 * 11);
+    max-width: calc(100% / 12 * 11);
+}
+
+.row > .offset-10 {
+    flex-basis: calc(100% / 12 * 10);
+    max-width: calc(100% / 12 * 10);
+}
+
+.row > .offset-9 {
+    flex-basis: calc(100% / 12 * 9);
+    max-width: calc(100% / 12 * 9);
+}
+
+.row > .offset-8 {
+    flex-basis: calc(100% / 12 * 8);
+    max-width: calc(100% / 12 * 8);
+}
+
+.row > .offset-7 {
+    flex-basis: calc(100% / 12 * 7);
+    max-width: calc(100% / 12 * 7);
+}
+
+.row > .offset-6 {
+    flex-basis: 50%;
+    max-width: 50%;
+}
+
+.row > .offset-5 {
+    flex-basis: calc(100% / 12 * 5);
+    max-width: calc(100% / 12 * 5);
+}
+
+.row > .offset-4 {
+    flex-basis: calc(100% / 12 * 4);
+    max-width: calc(100% / 12 * 4);
+}
+
+.row > .offset-3 {
+    flex-basis: calc(100% / 12 * 3);
+    max-width: calc(100% / 12 * 3);
+}
+
+.row > .offset-2 {
+    flex-basis: calc(100% / 12 * 2);
+    max-width: calc(100% / 12 * 2);
+}
+
+.row > .offset-1 {
+    flex-basis: calc(100% / 12 * 1);
+    max-width: calc(100% / 12 * 1);
+}

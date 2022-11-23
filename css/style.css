@@ -4,6 +4,7 @@ body {
 
 .row {
     border: 1px solid #fff;
+    margin-bottom: 20px;
 }
 
 .col {
